@@ -1,0 +1,59 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# machine lerning models
+ml_models
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+.pipenv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# PyInstaller
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.xml
+*.cover
+.hypothesis/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# PyCharm / VSCode / other IDE configs
+.idea/
+.vscode/
+*.swp
+
+# dotenv environment files
+.env
+.env.*
+
+# Logs
+*.log
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+.pyre/
+
+# Bandit security scanner
+bandit.yaml
+
+# MacOS / Linux / Windows trash and system files
+.DS_Store
+Thumbs.db
